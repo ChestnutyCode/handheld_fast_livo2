@@ -1,0 +1,24 @@
+# ROS / colcon
+build/
+install/
+log/
+
+# Git nested metadata
+.git/
+
+# datasets / generated maps
+*.bag
+*.db3
+*.mcap
+*.pcd
+*.ply
+
+# Temporary
+*.log
+*.tmp
+*~
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
